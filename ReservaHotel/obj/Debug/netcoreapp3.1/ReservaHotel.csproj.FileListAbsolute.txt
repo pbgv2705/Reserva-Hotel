@@ -1,0 +1,14 @@
+C:\Users\Paula\source\repos\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.exe
+C:\Users\Paula\source\repos\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.deps.json
+C:\Users\Paula\source\repos\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.runtimeconfig.json
+C:\Users\Paula\source\repos\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.runtimeconfig.dev.json
+C:\Users\Paula\source\repos\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.dll
+C:\Users\Paula\source\repos\ReservaHotel\ReservaHotel\bin\Debug\netcoreapp3.1\ReservaHotel.pdb
+C:\Users\Paula\source\repos\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.csproj.AssemblyReference.cache
+C:\Users\Paula\source\repos\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paula\source\repos\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.AssemblyInfoInputs.cache
+C:\Users\Paula\source\repos\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.AssemblyInfo.cs
+C:\Users\Paula\source\repos\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.csproj.CoreCompileInputs.cache
+C:\Users\Paula\source\repos\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.dll
+C:\Users\Paula\source\repos\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.pdb
+C:\Users\Paula\source\repos\ReservaHotel\ReservaHotel\obj\Debug\netcoreapp3.1\ReservaHotel.genruntimeconfig.cache
